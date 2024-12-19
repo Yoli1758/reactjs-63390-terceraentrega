@@ -1,0 +1,25 @@
+.contenedor-cart{
+    position: relative;
+    display: inline-block;
+}
+.contenedorclaro-carrito{
+    position: flex;
+    justify-content: space-around;
+}
+.cart-icon{
+font-size: 1.1rem;
+color: darkorange;
+position: relative;
+z-index: 2;
+}
+.cart-value{
+    position: absolute;
+    top: -12px;
+    right: -9px;
+    background: crimson;
+    font-size: 10px;
+    color: white;
+    padding: 2px 6px;
+    border-radius: 50%;
+    font-weight: bold;
+} 

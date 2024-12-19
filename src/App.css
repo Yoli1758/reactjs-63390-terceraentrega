@@ -1,0 +1,13 @@
+.content{
+     min-height: 100vh;
+    
+}
+
+.dark{
+    background-color: #282c34;
+    color: white;
+}
+.light{
+    color: #383ab1;
+    background-color: #f2f4f6;
+}

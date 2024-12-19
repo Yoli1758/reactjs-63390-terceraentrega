@@ -1,0 +1,19 @@
+ .botonincrementos{
+    border: 1px solid goldenrod;
+    margin-top: 50px;
+    border-radius: 10px;
+    height: 35px;
+    width: 100px;
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    gap: 10px;
+    
+    justify-content: center;
+}
+.botonincrementos button{
+    border: none;
+  background-color: black;
+  color: white;
+  border-radius: 10px 5px;
+} 

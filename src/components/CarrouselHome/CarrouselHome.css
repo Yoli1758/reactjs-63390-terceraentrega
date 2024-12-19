@@ -1,0 +1,12 @@
+
+.carousel-inner {
+    height: auto;
+    text-align: center;
+  }
+  .carousel-inner p {
+    margin: 0;
+    font-size: 0.8rem;
+  }
+ .carousel{
+  background-color: #ccc; 
+}
