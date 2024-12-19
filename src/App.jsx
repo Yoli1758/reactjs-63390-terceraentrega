@@ -25,7 +25,7 @@ function App() {
                     <NotificationProvider>
                         <CartProvider>
                             <ThemeProvider>
-                                <BrowserRouter basename="reactjs-63390-terceraentrega">
+                                <BrowserRouter>
                                     <NavBar />
                                     <Routes >
                                         <Route path='/' element={<Home />} />
